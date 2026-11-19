@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Two-Stage Predictive Nurse Staffing for Emergency Department Surges"
+type: software
+authors:
+  - family-names: Sikri
+    given-names: Nitin
+    orcid: "https://orcid.org/0009-0009-4096-5062"
+license: MIT
+repository-code: "https://github.com/nitinsikri/ed-surge-nurse-staffing"
+date-released: "2026-11-19"
+keywords:
+  - "emergency department"
+  - "nurse staffing"
+  - "forecasting"
+  - "surge capacity"
+  - "healthcare operations"
+preferred-citation:
+  type: conference-paper
+  title: "Volume-Adaptive Machine Learning Framework for Dynamic Nurse Staffing in Emergency Department Surge Periods"
+  authors:
+    - family-names: Sikri
+      given-names: Nitin
+      orcid: "https://orcid.org/0009-0009-4096-5062"
+  collection-title: "Proceedings of the 14th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA-2026), London, UK"
+  publisher:
+    name: "Springer"
+  year: 2026
