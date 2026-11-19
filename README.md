@@ -1,5 +1,7 @@
 # Two-Stage Predictive Nurse Staffing for Emergency Department Surges
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24380895.svg)](https://doi.org/10.5281/zenodo.24380895)
+
 Reference implementation of the method described in:
 
 **Nitin Sikri.** *Volume-Adaptive Machine Learning Framework for Dynamic Nurse Staffing in Emergency Department Surge Periods.* Proceedings of the 14th International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA-2026), London, UK, Springer, 2026. *(In press.)*
@@ -58,6 +60,8 @@ If you use this code, please cite the paper:
   year      = {2026}
 }
 ```
+
+To cite this software itself, use its Zenodo DOI: [10.5281/zenodo.24380895](https://doi.org/10.5281/zenodo.24380895).
 
 GitHub also shows a **"Cite this repository"** button generated from `CITATION.cff`.
 
